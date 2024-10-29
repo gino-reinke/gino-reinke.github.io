@@ -22,6 +22,6 @@ This is the source code for my personal portfolio website, hosted at [gino-reink
 
 To set up the project locally, follow these steps:
 
-1. **Clone the repository**:
+1. **Copy the link and paste the link into your web browser**:
    ```bash
-   git clone https://github.com/gino-reinke/gino-reinke.github.io.git
+   gino-reinke.github.io

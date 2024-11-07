@@ -6,7 +6,6 @@ This is the source code for my personal portfolio website, hosted at [gino-reink
 
 ## Features
 
-- **Home Page**: A brief introduction about myself and my professional journey.
 - **Projects**: A detailed showcase of my notable projects with descriptions and links.
 - **Resume**: A list of my technical and professional skills.
 - **Contact**: Methods to get in touch, including email and phone.
